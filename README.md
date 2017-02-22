@@ -1,4 +1,3 @@
 # hello-world
 my first repository
-testing my first file edits and commit
-I need to learn this
+Imprting a Python pgm and test file to see how this works
